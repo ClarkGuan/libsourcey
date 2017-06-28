@@ -9,3 +9,4 @@ build*
 private
 doxygen2md
 _book
+.idea
